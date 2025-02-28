@@ -22,7 +22,7 @@ I'm a Full-Stack Web Developer passionate about building high-quality, error-fre
 
 ☕ **Connect with me!**  
 <div>
-  <a href="https://github.com/RMasadulla" target="_blank" style="margin: 5px; display: inline-block;">
+  <a href="https://github.com/RMasadulla" target="_blank" class="github-link" style="margin: 5px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="border-radius: 50%; padding: 10px; transition: transform 0.3s ease;" />
   </a>
   <a href="https://www.linkedin.com/in/asadulla9/" target="_blank" style="margin: 5px; display: inline-block;">
@@ -40,8 +40,11 @@ I'm a Full-Stack Web Developer passionate about building high-quality, error-fre
   a:hover img {
     transform: scale(1.1); 
   }
-</style>
 
+  .github-link img {
+    filter: brightness(0) saturate(100%) invert(39%) sepia(99%) saturate(747%) hue-rotate(166deg) brightness(94%) contrast(91%);
+  }
+</style>
 
 ---
 
