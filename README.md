@@ -9,10 +9,10 @@ I'm a Full-Stack Web Developer passionate about building high-quality, error-fre
 ---
 
 👨‍💻 **Skills & Expertise:**  
-✅ **Frontend:** ReactJS, NextJS, Redux, Context API  
-✅ **Styling & Design:** Tailwind CSS, ShadCN, DailyUI
-✅ **Backend:** NodeJS, ExpressJS, Laravel  
-✅ **Database:** MySQL, MongoDB  
+✅ **Frontend:** ReactJS, NextJS, Redux, Context API   
+✅ **Styling & Design:** Tailwind CSS, ShadCN, DailyUI 
+✅ **Backend:** NodeJS, ExpressJS, Laravel   
+✅ **Database:** MySQL, MongoDB   
 ✅ **Others:** REST API, Full-Stack Development, Problem-Solving  
 
 ---
