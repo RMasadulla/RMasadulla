@@ -22,19 +22,26 @@ I'm a Full-Stack Web Developer passionate about building high-quality, error-fre
 
 ☕ **Connect with me!**  
 <div>
-  <a href="https://github.com/RMasadulla" target="_blank" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="background-color: #333; border-radius: 50%; padding: 10px;" />
+  <a href="https://github.com/RMasadulla" target="_blank" style="margin: 5px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="background-color: #333; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;" />
   </a>
-  <a href="https://www.linkedin.com/in/asadulla9/" target="_blank" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: #0077b5; border-radius: 50%; padding: 10px;" />
+  <a href="https://www.linkedin.com/in/asadulla9/" target="_blank" style="margin: 5px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: #0077b5; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;" />
   </a>
-  <a href="https://twitter.com/Rm_Asadulla" target="_blank" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" style="background-color: #1DA1F2; border-radius: 50%; padding: 10px;" />
+  <a href="https://twitter.com/Rm_Asadulla" target="_blank" style="margin: 5px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" style="background-color: #1DA1F2; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;" />
   </a>
-  <a href="https://rm-asadulla-portfolio.web.app" target="_blank" style="margin: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" style="background-color: #ff6a00; border-radius: 50%; padding: 10px;" />
+  <a href="https://rm-asadulla-portfolio.web.app" target="_blank" style="margin: 5px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" style="background-color: #ff6a00; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;" />
   </a>
 </div>
+
+<style>
+  a:hover img {
+    transform: scale(1.1); /* Slightly enlarges the icon on hover */
+  }
+</style>
+
 
 ---
 
