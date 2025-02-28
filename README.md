@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, This is Asadulla Ahmed 👋
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://media.licdn.com/dms/image/v2/C5616AQHY0F03SRotlQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1619344544118?e=1746057600&v=beta&t=4DInxAfsYRJAbGWWoGHL4mWgGBY3N1lGvdbeU4M0cbg
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
